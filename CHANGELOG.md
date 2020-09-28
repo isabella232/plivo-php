@@ -1,5 +1,8 @@
 # Change Log
 
+## [v5.11.1](https://github.com/plivo/plivo-php/releases/tag/v5.11.1) - 2020-09-24
+- Add SDK support for MPC APIs and XML.
+
 ## [v4.14.0](https://github.com/plivo/plivo-php/releases/tag/v4.14.0) - 2020-10-25
 - Change Lookup API endpoint and response.
 
